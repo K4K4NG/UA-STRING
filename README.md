@@ -9,3 +9,5 @@ yang baru pake gh ini gitpull bre
 #Fb : muhammad kasyaf
 
 Jika terjadi bug atau eror bisa chat ke fb saya bre
+maaf bre kalau cp deres soalnya masih ngoding bang(ngcok stending) 
+buat sc kalau mau yg full senyum bang 
