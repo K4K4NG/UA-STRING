@@ -12,4 +12,4 @@ cd BrutekFb
 
 git pull
 
-python run_enc2.py
+python run_enci.py
