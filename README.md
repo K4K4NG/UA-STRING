@@ -1,6 +1,7 @@
 
 kembali lagi guys
-
+ 
+setiap pake gh ini git pull karena update tan nya gk nentu
 
 kode perintah nih bre
 
@@ -9,4 +10,6 @@ git clone https://github.com/K4K4NG/BrutekFb
 
 cd BrutekFb
 
-python runenc.py
+git pull
+
+python run_enc2.py
