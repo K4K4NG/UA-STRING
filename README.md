@@ -8,4 +8,4 @@ git clone https://github.com/K4K4NG/Meledak
 
 cd Meledak 
 
-python useragentstrig.py
+python useragentstrig_enc.py
